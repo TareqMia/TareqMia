@@ -1,6 +1,6 @@
 ### Hi there, I'm Tareq, a Software Engineer 👋
 
-I am a recent graduate from Stony Brook University with a degree in Computer Science. I specialize in Full-Stack and Mobile Development.
+I graduated from Stony Brook University with a degree in Computer Science. I specialize in Full-Stack and Mobile Development.
 
 ## Skills
 - **Programming Languages:** <br>
