@@ -1,6 +1,6 @@
 ### Hi there, I'm Tareq 👋
 
-I graduated from Stony Brook University with a degree in Computer Science. I specialize in Full-Stack and Mobile Development.
+iOS and Full Stack Software Engineer
 
 ## Skills
 - **Programming Languages:** <br>
