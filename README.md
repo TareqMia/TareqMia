@@ -1,6 +1,18 @@
 ### Hi there, I'm Tareq 👋
 
-iOS and Full Stack Software Engineer
+iOS and Full Stack Software Engineer 
+
+I'm currently working on: Recipify 
+<div style="gap: 2px;">
+  <img width="400" height="300" alt="Screenshot 2025-09-12 at 10 31 38 AM" src="https://github.com/user-attachments/assets/6bee1697-662f-4a6a-9354-f52a32e3b68e" />
+  <img width="400" height="300" alt="Screenshot 2025-09-12 at 10 32 08 AM" src="https://github.com/user-attachments/assets/e066f364-3209-47a6-9855-c1ffb6681b7c" />
+  <img width="400" height="300" alt="Screenshot 2025-09-12 at 10 32 16 AM" src="https://github.com/user-attachments/assets/8b82f26a-beba-478a-8ce6-695d0b27546d" />
+  <img width="400" height="300" alt="Screenshot 2025-09-12 at 10 32 02 AM" src="https://github.com/user-attachments/assets/a436d4a2-1925-4470-8eb1-8bd3ba7c75b8" />
+
+  
+</div>
+
+
 
 ## Skills
 - **Programming Languages:** <br>
