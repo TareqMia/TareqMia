@@ -4,10 +4,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/TareqMia?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/TareqMia)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=TareqMia&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/TareqMia)
-
 </div>
 
 <br/>
